@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.cc4e5071.css",
+    "main.js": "./static/js/main.16b8627a.js",
+    "static/js/650.b2af1305.chunk.js": "./static/js/650.b2af1305.chunk.js",
+    "static/js/264.cb387b90.chunk.js": "./static/js/264.cb387b90.chunk.js",
+    "static/js/70.6f5e3058.chunk.js": "./static/js/70.6f5e3058.chunk.js",
+    "static/js/684.d8e4f59e.chunk.js": "./static/js/684.d8e4f59e.chunk.js",
+    "static/css/203.d6bfd15f.chunk.css": "./static/css/203.d6bfd15f.chunk.css",
+    "static/js/203.3f48670e.chunk.js": "./static/js/203.3f48670e.chunk.js",
+    "static/js/616.de6fd441.chunk.js": "./static/js/616.de6fd441.chunk.js",
+    "static/js/510.a5f8cb67.chunk.js": "./static/js/510.a5f8cb67.chunk.js",
+    "static/js/458.8fce5945.chunk.js": "./static/js/458.8fce5945.chunk.js",
+    "static/js/307.daaab254.chunk.js": "./static/js/307.daaab254.chunk.js",
+    "static/media/pdf.worker.min.mjs": "./static/media/pdf.worker.min.1779a6a30ad06b073b1b.mjs",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.cc4e5071.css",
+    "static/js/main.16b8627a.js"
+  ]
+}
